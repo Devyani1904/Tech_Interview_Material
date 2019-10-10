@@ -2,8 +2,7 @@
 Short todo list of topics which is important for technical interview (Software Engineering position).
 
 **Content**
-
-[create an anchor](#anchors-in-markdown)**1. Data Structure Basics**
+[**1. Data Structure Basics**] (#anchors-in-markdown)
 
       - Trees
       - Graphs
