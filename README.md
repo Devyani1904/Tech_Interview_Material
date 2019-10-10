@@ -3,7 +3,7 @@ Short todo list of topics which is important for technical interview (Software E
 
 **Content**
 
-[] (#ds-in-markdown) **1. Data Structure Basics**
+#[]#ds-in-markdown) **1. Data Structure Basics**
 
       - Trees
       - Graphs
