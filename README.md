@@ -9,15 +9,17 @@ Short todo list of topics which is important for technical interview (Software E
       - Graphs
       - Sorting and Searching
       - Hashing and Indexing
-      - Algorithmic Complexity  
+      - Algorithmic Complexity 
+      
  *1.2 Coding Patterns*  
-      *Pattern 1- Sliding Window Pattern*
-      *Pattern 2 - Two Pointers*
-      *Pattern 3 - Merge Intervals*
-      *Pattern 4 - Traditional Sorting *
-      *Pattern 5 - Linked List*
-      *Pattern 6 - BFS/DFS*
-      *Pattern 7 - K way Merge*
+      *Pattern 1 -* Sliding Window Pattern
+      *Pattern 2 -* Two Pointers
+      *Pattern 3 -* Merge Intervals
+      *Pattern 4 -* Traditional Sorting
+      *Pattern 5 -* Linked List
+      *Pattern 6 -* BFS/DFS
+      *Pattern 7 -* K way Merge
+      
 **2. AWS Quick Notes**
 
 **3. Python Quick Notes**
